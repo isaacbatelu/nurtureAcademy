@@ -1,0 +1,119 @@
+body {
+  background: white;
+  font-family: "Nunito", sans-serif;
+
+}
+
+.blurb h2 {
+  color: #ea1c2c;
+  font-weight: 100;
+  font-size: 2rem;
+}
+
+.blurb h4 {
+  color: #ea1c2c;
+  font-weight: 100;
+  font-size: 1.3rem;
+}
+
+
+.blurb p {
+  color: #ea1c2c;
+  font-weight: 100;
+  font-size: 1.125rem;
+  line-height: 2;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+}
+
+.list-group-item-services {
+  background-color: inherit;
+  color: #ea1c2c;
+  font-weight: 100;
+  font-size: 1.125rem;
+  line-height: 2;
+  padding: 0;
+}
+
+.formCSS {
+  background-color: inherit;
+  color: #ea1c2c;
+  font-weight: 100;
+  font-size: 1.125rem;
+  padding: 0;
+
+}
+
+
+.concent-last {
+  padding-bottom: 100px
+}
+
+
+.content {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 50px;
+}
+
+#mainNavbar .nav-link{
+  color: black;
+  font-weight: 100;
+  font-size: 1.22rem;
+}
+
+#mainNavbar .nav-link:hover{
+  color: #EA1C2C;
+}
+
+.navbar-toggler-icon {
+  color: black;
+}
+
+#mainNavbar .navbar-brand {
+  color: #EA1C2C;
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+
+
+.first-heading {
+   padding-top: 70px;
+}
+
+#headingGroup span {
+  color: #ea1c2c;
+} 
+
+#headingGroup h1 {
+  font-weight: 100;
+  font-size: 2.5rem;
+  color: black;
+} 
+
+.navbar.scrolled {
+  background: rgba(0,123,255,.25);
+  transition: background 500ms;
+}
+
+img {
+  padding-right: 0px;
+}
+
+#about .mypicbkgrnd {
+  background: #432f48;
+  padding-right: 0px;
+}
+
+
+
+@media (max-width: 1280px) {
+  #headingGroup h1 {
+  font-weight: 100;
+  font-size: 1.7rem;
+  } 
+}
+
+
